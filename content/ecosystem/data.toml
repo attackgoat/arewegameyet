@@ -620,6 +620,11 @@ categories = ["scripting"]
 homepage_url = "https://mun-lang.org"
 
 [[items]]
+name = "nakama"
+source = "crates"
+categories = ["networking"]
+
+[[items]]
 name = "nalgebra"
 source = "crates"
 categories = ["math"]
